@@ -9,7 +9,7 @@ Agent skill generated from *《中华人民共和国民法典》* (Civil Code of
 On any Agent Skills host:
 
 ```bash
-npx skills add <repo-url> --skill <skill_name>
+npx skills add https://github.com/cjp1225/minfadian --skill 民法典
 ```
 
 ## File Inventory
